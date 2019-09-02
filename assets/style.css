@@ -1,0 +1,10 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+p{
+    font-size: 18px;
+}
+.HIDDEN{
+    overflow: hidden;
+}
